@@ -1,0 +1,4 @@
+npx create-react-app enterprise-frontend
+cd enterprise-frontend
+npm start
+
